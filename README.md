@@ -1,7 +1,7 @@
 # HortoTech
 
 Bem-vindo(a) ao repositório do site da HortoTech!
-
+![image](https://github.com/Pontessxx/Hortotech/assets/126187491/338ae452-cf74-4646-9db1-ceabfca1a976)
 ## Sobre
 
 A HortoTech é uma start-up dedicada a desenvolver soluções inovadoras para enfrentar a insegurança alimentar global, utilizando tecnologias avançadas e sustentáveis. Nosso site apresenta informações sobre nossos produtos, missão, visão, valores e diferenciais.
